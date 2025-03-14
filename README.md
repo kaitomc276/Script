@@ -1,11 +1,18 @@
-local placeId = game.PlaceId
-if placeId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 then
-	--Blox Fruits
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-KaitoMC/kaitoMC-Hub/main/BloxFruits.lua"))()
-elseif placeId == 205224386 then
-	--HideAndSeek
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-kaitoMC/kaitoMC-Hub/refs/heads/main/HideAndSeek.lua"))()
-elseif placeId == 116495829188952 or placeId == 70876832253163 then
-    	--DeadRails
-    	loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-kaitoMC/kaitoMC-Hub/main/DeadRails.lua"))()
-end
+local function KaitoMC(kaitoMC)
+local player = game.Players.LocalPlayer
+local character = player.Character
+local Humanoid = character:WaitForChild("Humanoid")
+local RightHand = character:WaitForChild("RightHand")
+
+local function (kaitoMC)
+-- 
+
+local function (KaitoMC)
+-- 
+
+local function (kaitoMC276)
+-- 
+
+local function (135340321174352)
+local ImageLoader = loadstring(game:HttpGet("https://raw.githubusercontent.com/KaitoMC-Lite/ImageLoader/main/loader.lua"))()
+ImageLoader:LoadImage("https://example.com/image.jpg")
